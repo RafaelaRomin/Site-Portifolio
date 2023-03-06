@@ -1,4 +1,4 @@
-# Site
+# Site/portifólio
 
-Site informativo, podendoo ser aperfeiçoado como portifólio pessoal/profissional. <br>
-Criado usando HTML, CSS e JAVASCRIPT.
+Pode ser aperfeiçoado como portifólio pessoal/profissional. <br>
+Criado utilizando HTML, CSS e JAVASCRIPT.
